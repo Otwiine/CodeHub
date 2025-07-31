@@ -10,9 +10,7 @@ This repository contains a collection of mini-projects, experiments, and ideas b
 [@GrandMaster142](https://github.com/GrandMaster142) • 
 [@Trojannetwork](https://github.com/Trojannetwork) • 
 [@eliosha](https://github.com/eliosha) • 
-[@mattyy432](https://github.com/mattyy432)
-
----
+[@mattyy432](https://github.com/mattyy432) • 
 
 ## Tech Stack
 
