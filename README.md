@@ -5,7 +5,7 @@
 This repository is a space where we share, learn, and grow as a coding community.  
 Expect experiments, fun projects, and collaborative ideas from the **Coders Cult** team.
 
-<p align="center">
+<p>
   <a href="https://github.com/FrostyDot512" target="_blank">
     <img src="https://avatars.githubusercontent.com/FrostyDot512?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="FrostyDot512"/>
   </a>
@@ -29,8 +29,8 @@ Expect experiments, fun projects, and collaborative ideas from the **Coders Cult
   </a>
 </p>
 
-<p align="center">
-  <sub>Click a profile picture to visit their GitHub 👆</sub>
+<p>
+  <sub>Click a profile picture to visit their GitHub</sub>
 </p>
 
 ## Tech Stack
