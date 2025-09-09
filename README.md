@@ -1,21 +1,45 @@
 # Coders Cult
 
-Welcome to **Coders Cult**
+## About
 
-This repository contains a collection of mini-projects, experiments, and ideas by:
+This repository is a space where we share, learn, and grow as a coding community.  
+Expect experiments, fun projects, and collaborative ideas from the **Coders Cult** team.
 
-[@FrostyDot512](https://github.com/FrostyDot512) • 
-[@Otwiine](https://github.com/Otwiine) • 
-[@MOSES-LEO-tech](https://github.com/MOSES-LEO-tech) • 
-[@GrandMaster142](https://github.com/GrandMaster142) • 
-[@Trojannetwork](https://github.com/Trojannetwork) • 
-[@eliosha](https://github.com/eliosha) • 
-[@mattyy432](https://github.com/mattyy432) • 
+<p align="center">
+  <a href="https://github.com/FrostyDot512" target="_blank">
+    <img src="https://avatars.githubusercontent.com/FrostyDot512?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="FrostyDot512"/>
+  </a>
+  <a href="https://github.com/Otwiine" target="_blank">
+    <img src="https://avatars.githubusercontent.com/Otwiine?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="Otwiine"/>
+  </a>
+  <a href="https://github.com/MOSES-LEO-tech" target="_blank">
+    <img src="https://avatars.githubusercontent.com/MOSES-LEO-tech?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="MOSES-LEO-tech"/>
+  </a>
+  <a href="https://github.com/GrandMaster142" target="_blank">
+    <img src="https://avatars.githubusercontent.com/GrandMaster142?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="GrandMaster142"/>
+  </a>
+  <a href="https://github.com/Trojannetwork" target="_blank">
+    <img src="https://avatars.githubusercontent.com/Trojannetwork?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="Trojannetwork"/>
+  </a>
+  <a href="https://github.com/eliosha" target="_blank">
+    <img src="https://avatars.githubusercontent.com/eliosha?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="eliosha"/>
+  </a>
+  <a href="https://github.com/mattyy432" target="_blank">
+    <img src="https://avatars.githubusercontent.com/mattyy432?v=4&size=80&u=rounded" width="80" height="80" style="border-radius:50%;" alt="mattyy432"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Click a profile picture to visit their GitHub 👆</sub>
+</p>
 
 ## Tech Stack
 
 We use the following technologies:
 
-- **Python**
-- **Java**
-- **HTML & CSS**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+</p>
