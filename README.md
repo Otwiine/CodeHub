@@ -33,6 +33,10 @@ Expect experiments, fun projects, and collaborative ideas from the **Coders Cult
   <sub>Click a profile picture to visit their GitHub</sub>
 </p>
 
+## Currently Working On  
+
+We are currently building our **group website**.  
+In the future, we plan to work on a **2D game**, developed in either **Python** or **Java**.
 ## Tech Stack
 
 We use the following technologies:
