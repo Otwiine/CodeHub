@@ -1,6 +1,6 @@
 # CodeHub
 
-## About
+## About Us
 
 This repository is a space where we share, learn, and grow as a coding community.  
 Expect experiments, fun projects, and collaborative ideas from the **CodeHub** team.
