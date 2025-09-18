@@ -1,9 +1,9 @@
-# CodersHub
+# CodeHub
 
 ## About
 
 This repository is a space where we share, learn, and grow as a coding community.  
-Expect experiments, fun projects, and collaborative ideas from the **CodersHub** team.
+Expect experiments, fun projects, and collaborative ideas from the **CodeHub** team.
 
 <p>
   <a href="https://github.com/FrostyDot512" target="_blank">
